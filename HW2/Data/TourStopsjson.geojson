@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "TourStopsjson",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "Housing" }, "geometry": { "type": "Point", "coordinates": [ -8799409.087287170812488, 4288392.103113358840346 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Name": "Student Life" }, "geometry": { "type": "Point", "coordinates": [ -8799558.229498866945505, 4288268.254025283269584 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Name": "Pit" }, "geometry": { "type": "Point", "coordinates": [ -8799641.958459820598364, 4288262.14878854714334 ] } },
+{ "type": "Feature", "properties": { "id": 4, "Name": "Quad" }, "geometry": { "type": "Point", "coordinates": [ -8799834.709505345672369, 4288281.336675432510674 ] } },
+{ "type": "Feature", "properties": { "id": 6, "Name": "Makerspace" }, "geometry": { "type": "Point", "coordinates": [ -8799993.445660484954715, 4288212.434717982076108 ] } },
+{ "type": "Feature", "properties": { "id": 7, "Name": "Study Abroad" }, "geometry": { "type": "Point", "coordinates": [ -8799962.919476805254817, 4288147.893643914721906 ] } },
+{ "type": "Feature", "properties": { "id": 8, "Name": "Academics" }, "geometry": { "type": "Point", "coordinates": [ -8799875.701809145510197, 4287889.729347644373775 ] } },
+{ "type": "Feature", "properties": { "id": 9, "Name": "Why Carolina?" }, "geometry": { "type": "Point", "coordinates": [ -8799734.409187538549304, 4288046.721149429678917 ] } }
+]
+}
