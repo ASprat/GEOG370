@@ -10,5 +10,9 @@
     <p>Here is the map.</p>
 
     <img src="MidtermPrint.png" width = 500px>
+
+    <h4>Links to GeoJSON files on Github</h4>
+    <p>Here is the link to the Luxor Casino geoJSON: <a href="https://github.com/ASprat/GEOG370/blob/main/Midterm/LuxorHotelGeoJSON.geojson">Luxor geoJSON</a></p>
+    <p>Here is the link to the Golf Course geoJSON: <a href="https://github.com/ASprat/GEOG370/blob/main/Midterm/GolfCourseGeoJSON.geojson">Golf Course geoJSON</a></p>
   </body>
 </html>
