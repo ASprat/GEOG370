@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "LuxorHotelGeoJSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "Luxor Hotel and Casino" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -115.176826717552814, 36.094632563735729 ], [ -115.176822385253573, 36.09627909360367 ], [ -115.174776492985075, 36.096289691930728 ], [ -115.174775332220619, 36.094645366737517 ], [ -115.176826717552814, 36.094632563735729 ] ] ] ] } }
+]
+}
