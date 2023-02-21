@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Midterm </title>
+  </head>
+  <body>
+    <h1>Midterm</h1>
+    <h3>By Andrew Spratley</h3>
+
+    <p>Here is the map.</p>
+
+    <img src="MidtermPrint.png" width = 500px>
+  </body>
+</html>
