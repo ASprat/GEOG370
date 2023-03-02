@@ -10,16 +10,27 @@
     <p>Due to accidentally using North Carolina in the last part, I had to switch and used Educational Attainment for those over 25 in the state of Texas.</p>
 
     <h3>Data</h3>
-    <a href="">CSV Dataset</a>
+    <a href="TexasShapeFile.shp">CSV Dataset</a>
     <a href="">Link to Shapefile</a>
 
     <h3>Ratio Explained</h3>
     <p>I used the ratio of those who obtained a bachelors degree or higher and is over the age of 25 compared to the population estimate that is over 25 in the state of Texas. 
         This would show where the most people in the state with college degrees are comparatively to the rest of the state.
     </p>
+    
 
     <h3>Mode - Equal Count(Quantile)</h3>
     <p>Pros of this allow for distortion to be minimized by increasing the number of classes, so it would potentially look prettier as the colors would slightly get darker and darker. However, a con is that it can be misleading due to features with widely different values potentially in the same class.</p>
+    <img src="EqualCount(Quantile).png" width="500px">
+
+
+    <h3>Mode - Natural Breaks(Jenks)</h3>
+    <p>Natural Breaks makes the breaks where the differences are maximized between classes. This however is meant to be used with less than seven classes when using monochromatic shading, so there can not be more than 7 distributions.</p>
+    <img src="NaturalBreak.png" width="500px">
+
+    <h3>Mode - Equal Interval</h3>
+    <p>Equal interval is great when it is applied to things like percentages and temperature. However, when it is dealing with things that vary widely, it might be best to utilize another method as there might be a lot of distortion.</p>
+    <img src="EqualInterval.png" width="500px">
 
 
   </body>
